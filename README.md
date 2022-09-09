@@ -3,7 +3,7 @@
 <img align="right" alt="coder" width="350" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azad-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="azad-cyber" /> </p>
 
-- 🔭 I’m currently working on **Personal**
+- 🔭 I’m currently working on **Personal Project**
 
 - 🌱 I’m currently learning **React Native**
 
