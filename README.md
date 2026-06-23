@@ -125,7 +125,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=azad-cyber&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=azad-cyber&theme=tokyonight&no-bg=true&margin-w=15" alt="Ansari Azad's GitHub Trophies" />
 </p>
 
 ---
