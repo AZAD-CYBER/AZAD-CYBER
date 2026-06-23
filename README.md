@@ -1,67 +1,137 @@
 <h1 align="center">Hi 👋, I'm Ansari Azad</h1>
-<h3 align="center">A passionate Software Engineer From India</h3>
+<h3 align="center">Software Engineer | Frontend Developer | Problem Solver</h3>
 
-<img align="right" alt="coder" width="350" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" />
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=azad-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="azad-cyber" /> 
-</p>
-
-- 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React, Python**
-- 📫 How to reach me **azadansari7504@gmail.com**
-- ⚡ Fun fact **Watching cricket 🏏 and movies 📽️**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ansari-azad-b14329214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/azad__4_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/azadansari7504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-<a href="https://leetcode.com/19co14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=azad-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+## 🚀 About Me
+
+- 🔭 Currently working on **Personal Projects**
+- 🌱 Learning **React Native & Golang Microservices**
+- 💻 Skilled in **Angular, React, TypeScript, Python**
+- ☁️ Exploring **AWS & Cloud Technologies**
+- 🧩 Active **LeetCode Problem Solver**
+- 🎯 Interested in **System Design, Accessibility & Scalable Applications**
+- ⚡ Fun Fact: I love **Cricket 🏏, Movies 🎬 and Coding Challenges**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ansari-azad-b14329214/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:azadansari7504@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/azad__4_/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
 </p>
 
-<br>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,aws" />
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/19co14/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/azadansari7504" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Celebrity Profile Management System
+- Angular Frontend
+- Golang Microservices
+- MySQL Database
+- Image & Video Management
+- REST APIs
+
+### 🌦️ Weather Dashboard
+- React Application
+- Weather API Integration
+- Responsive UI
+- Real-time Updates
+
+### 🚗 Car Dealer Platform
+- React Micro Frontends
+- Golang Backend
+- MySQL Database
+- Vehicle Listings & Search
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile" alt="Azad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azad-cyber&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<img src="https://github-readme-stats.vercel.app/api?username=azad-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📊 My GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Azad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azad-cyber&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Azad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azad-cyber&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azad-cyber&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azad-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Azad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azad-cyber&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azad-cyber&theme=react-dark" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=azad-cyber&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+<i>"Consistency beats intensity. Code every day, learn every day, improve every day."</i>
 </p>
