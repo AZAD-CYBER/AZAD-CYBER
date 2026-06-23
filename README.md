@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ansari Azad</h1>
 <h3 align="center">Software Engineer | Frontend Developer | Problem Solver</h3>
 
-<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<div align="center" style="display: flex; justify-content: flex-end; align-items: center; float: right; margin-left: 10px;">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=azad-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
