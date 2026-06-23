@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansari Azad</h1>
 <h3 align="center">Software Engineer | Frontend Developer | Problem Solver</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=azad-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,7 +21,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/ansari-azad-b14329214/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
@@ -118,14 +118,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=azad-cyber&theme=react-dark" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=azad-cyber&theme=tokyonight&no-bg=true&margin-w=15" alt="Ansari Azad's GitHub Trophies" />
 </p>
 
 ---
